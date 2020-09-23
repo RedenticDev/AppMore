@@ -1,0 +1,12 @@
+Package: com.redenticdev.appmore
+Name: AppMore
+Version: 0.0.9
+Architecture: iphoneos-arm
+Description: Auto-extend app's description in AppStore updates
+Icon: https://redentic.dev/depictions/com.redenticdev.appmore/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.appmore
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.appmore/sileo.json
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Author: RedenticDev <redenticdev@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
