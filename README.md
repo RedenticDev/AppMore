@@ -5,7 +5,7 @@ Auto-extend app's description in AppStore updates
 
 ## Features
 The tweak auto-expands the description of apps in the update page of the AppStore on iOS 13. It works for both updated apps and outdated ones.
-This tweak has been made after [a Reddit request]().
+This tweak has been made after [a Reddit request](https://www.reddit.com/r/jailbreak/comments/iy4tk8/question_is_there_a_tweak_that_expands_the_more/).
 
 ## Known issues
 Not really an issue, but the actual way makes the auto-extend a bit laggy, although is has been optimized to avoid duplicate/useless calls. It might be fixed in a future update(/rewrite?).
