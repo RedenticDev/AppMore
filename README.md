@@ -29,4 +29,3 @@ Do you want to request a feature? [Send me an email](mailto:redenticdev@gmail.co
 ## Contact Me
 - [Follow me on Twitter](https://twitter.com/RedenticDev)
 - [Donate to me](https://paypal.me/redenticdev)
-- 
